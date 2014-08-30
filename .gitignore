@@ -172,3 +172,8 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+Windows/Framework
+Linux/Framework
+default.pak
+hdr.pak
