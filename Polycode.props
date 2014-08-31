@@ -2,8 +2,8 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <CoreDir>$(SolutionDir)Core</CoreDir>
-    <PolycodeDir>$(SolutionDir)Windows\Framework\</PolycodeDir>
+    <CoreDir>$(SolutionDir)inc</CoreDir>
+    <PolycodeDir>$(SolutionDir)lib\win\</PolycodeDir>
     <PolycodeCoreLibsDebug>Polycore_d.lib</PolycodeCoreLibsDebug>
     <PolycodeCoreLibsRelease>Polycore.lib</PolycodeCoreLibsRelease>
     <PolycodeDependLibsDebug>Polycore_d.lib;zlibd.lib;freetype_d.lib;liboggd.lib;libvorbisd.lib;libvorbisfiled.lib;OpenAL32d.lib;physfsd.lib;libpng15_staticd.lib</PolycodeDependLibsDebug>
